@@ -1,4 +1,4 @@
--- ColorsForMe 0.4.5: optional chrome additions.
+-- ColorsForMe 0.4.6: optional chrome additions.
 -- The stable 0.3.2 scanner/color cache remains responsible for ALL mutations.
 -- Only a known frame/root or a verified name/path can authorize a color change.
 local addonName, ns = ...

@@ -2,6 +2,14 @@
 
 All notable changes to this project are documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.4.6] - 2026-11-22
+
+### Changed
+
+- Added the MIT license (`LICENSE`) and a License section in the README files.
+- Set the author to mybermudaislands in the toc, Lua header comment and Russian README.
+- Updated documentation. No change to addon behavior.
+
 ## [0.4.5] - 2026-11-22
 
 ### Added

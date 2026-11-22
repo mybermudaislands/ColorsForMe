@@ -53,4 +53,4 @@ Tests use a mocked WoW API and run with a plain Lua 5.1 interpreter from the rep
 
 ## License
 
-No license has been specified yet.
+Released under the MIT License. See [LICENSE](LICENSE).

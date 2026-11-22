@@ -1,8 +1,8 @@
 ## Interface: 16001
 ## Title: ColorsForMe
 ## Notes: Recolors carefully selected original WoW Forever UI decoration only.
-## Author: tinybeast
-## Version: 0.4.5
+## Author: mybermudaislands
+## Version: 0.4.6
 ## SavedVariables: ColorsForMeDB
 ## AddonCompartmentFunc: ColorsForMe_AddonCompartmentClick
 ## IconTexture: Interface\AddOns\ColorsForMe\ColorWheel.tga

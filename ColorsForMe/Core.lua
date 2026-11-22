@@ -1,4 +1,4 @@
--- ColorsForMe 0.4.5 | author: tinybeast
+-- ColorsForMe 0.4.6 | author: mybermudaislands
 -- World of Warcraft: Forever (1.60.1 / interface 16001)
 -- No art is replaced. No Blizzard global function or UI method is overwritten.
 local _, ns = ...

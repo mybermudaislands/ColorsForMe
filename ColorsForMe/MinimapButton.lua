@@ -1,4 +1,4 @@
--- ColorsForMe 0.4.5 - a standard-style minimap shortcut.
+-- ColorsForMe 0.4.6 - a standard-style minimap shortcut.
 -- It is NOT a recolor overlay and never changes the Minimap frame itself.
 local _, ns = ...
 local button
